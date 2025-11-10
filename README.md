@@ -174,4 +174,3 @@ A new customer_returns table
 
 Analytical insights on churn, complaints, and transactions
 
-📌 Notes
